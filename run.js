@@ -1,4 +1,5 @@
-await (async () => {
+// await (async () => {
+(async () => {
   const NUM_PER_PAGE = 10;
   const URL_BASE = "https://www.amazon.co.jp";
   const URL_FORMAT = `${URL_BASE}/gp/css/order-history?disableCsd=no-js&orderFilter=year-{year}&startIndex={startIndex}`;
